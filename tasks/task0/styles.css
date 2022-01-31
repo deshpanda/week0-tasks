@@ -1,0 +1,86 @@
+.heading{
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 42vw;   
+}
+
+.heading2{
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 44vw;
+}
+
+#red{
+    
+    margin-left: 28vw;
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: red;
+}
+
+#blue{
+    margin-left: 20vw;
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: blue;
+}
+
+#yellow{
+    margin-left: 20vw;
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: yellow;
+}
+
+.heading3{
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 16vw;
+}
+
+#purple{
+    
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: purple;
+}
+
+#green{
+    
+    margin-left: 20vw;
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: green;
+}
+
+#orange{
+    
+    margin-left: 20vw;
+    width: 100px;
+    height: 100px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: orange;
+}
+
+.heading4{
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 17vw;
+}
+
+p{
+    margin-left: 11vw;
+}
